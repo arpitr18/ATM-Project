@@ -4,7 +4,7 @@ import java.util.*;
 public class ATM {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("-----------------------------Welcome to ATM-----------------------------");
+        System.out.print("-----------------------------Welcome to ATM-----------------------------");
         int balance = 10000;
         System.out.println("Please Insert your Debit Card ");
         System.out.print("PLease Enter your PIN: ");
